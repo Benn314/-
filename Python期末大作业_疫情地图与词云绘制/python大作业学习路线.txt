@@ -1,0 +1,14 @@
+整理好的源码（仅省级和中国地图，稍后我会把我写的世界地图源码也整合进去）
+
+https://www.jianshu.com/u/02bc086846b3
+
+
+b站学习视频 【python数据可视化】详解如何绘制疫情地图与词云
+（每个人都要看，不多，时长一个多小时，如果跟着学下来，再去看源码，3个4个小时可以理解透，这样方便我们写Word和PPT制作）
+
+https://www.bilibili.com/video/BV1X54y1R7cu?p=1
+
+PS：最好是边看视频跟着边敲代码，相信你解释运行会有一些错误，解决error才能进步
+
+pyecharts 中文文档:https://pyecharts.org/#/zh-cn/intro
+pyecharts-map 代码示例:http://gallery.pyecharts.org/#/Map/README
